@@ -1,0 +1,4 @@
+Django==4.2.6
+Django-Ninja==1.0.0  # Para renderizar templates HTML
+qrcode==7.4.2      # Para gerar o QRCode
+Pillow==10.1.0     # O QRCode usa o Pillow internamente para salvar a imagem
