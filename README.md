@@ -4,7 +4,7 @@
 [![Django](https://img.shields.io/badge/Django-4.x-green.svg)](https://www.djangoproject.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Este repositório reúne os projetos desenvolvidos por mim durante a **Pystack Week Returnal**, um evento online promovido pela equipe **Pythonando**, com foco no desenvolvimento de aplicações web utilizando **Python** e **Django**.
+Este repositório reúne os projetos desenvolvidos durante a **Pystack Week Returnal**, um evento online promovido pela equipe **Pythonando**, com foco no desenvolvimento de aplicações web utilizando **Python** e **Django**.
 
 ---
 
